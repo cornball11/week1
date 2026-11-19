@@ -1,13 +1,10 @@
-# Our coding style 
+# Style Guide
+1. Indentation: Use 4 spaces for indentation, no tabs.
 
-- Use clear names: final_price, not x 
+2. Naming: Use snake_case for variables and functions in C and Python; camelCase for JavaScript variables.
 
-- One job per function 
+3. Line length: Keep each line under 80 characters.
 
-- Add a short comment only where the code isn't obvious 
+4. Comments: Add brief comments to explain the purpose of each program.
 
-- Indent consistently 
-
-- Every project has a README that says how to run it 
-
-- No commented-out code left lying around 
+5. File: One program per source file.
